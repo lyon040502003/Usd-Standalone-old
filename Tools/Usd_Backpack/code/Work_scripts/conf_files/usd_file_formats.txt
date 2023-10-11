@@ -1,0 +1,4 @@
+.usda
+.usd
+.usdz
+.usdc
